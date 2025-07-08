@@ -96,12 +96,15 @@ On average, profits were higher during Greed days. It looks like when the market
 
 #### People tend to Buy when it’s Greed, and Sell when it’s Fear.
 
-The trade volume clearly shifted — traders were more comfortable buying during Greed, while during Fear, they sold more. Makes sense emotionally too.
+The trade volume clearly shifted when traders were more comfortable buying during Greed and while been in Fear, they sold more.
 
 #### Profits during Greed had more ups and downs.
 
-The boxplot showed that Greed comes with more risk — profits ranged widely. Some traders made a lot, some didn’t. But in Fear, results were more steady (but lower).
+The boxplot showed that Greed comes with more risk — profits ranged widely. Some traders made a lot, some didn’t. But in Fear, results were more steady but lower .
 
 #### Winning trades happened more often during Greed.
 
 The win rate (percentage of positive PnL trades) was clearly better during Greed. So not only were profits higher, but traders also won more often.
+
+#### Volatility was higher in Greed
+People take more risk during Greed, some make some not thats why fluctuation is high.
