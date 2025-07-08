@@ -89,12 +89,18 @@ We used basic `matplotlib` and some `seaborn` for cleaner styling.
 
 
 ## 🔍 Key Findings
-Extreme Greed days saw the highest average profit, but also higher volatility
+#### Traders did better when the market felt Greedy.
 
-Fear sentiment surprisingly had better win rates (less overconfidence?)
+On average, profits were higher during Greed days. It looks like when the market is confident, traders take more advantage and earn more.
 
-Buy trades had slightly higher fees than Sell
+#### People tend to Buy when it’s Greed, and Sell when it’s Fear.
 
-Most trades occurred during Greed, showing crowd confidence bias
+The trade volume clearly shifted — traders were more comfortable buying during Greed, while during Fear, they sold more. Makes sense emotionally too.
 
-Traders need to manage risk better during extreme sentiment events
+#### Profits during Greed had more ups and downs.
+
+The boxplot showed that Greed comes with more risk — profits ranged widely. Some traders made a lot, some didn’t. But in Fear, results were more steady (but lower).
+
+#### Winning trades happened more often during Greed.
+
+The win rate (percentage of positive PnL trades) was clearly better during Greed. So not only were profits higher, but traders also won more often.
