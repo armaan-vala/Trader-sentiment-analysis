@@ -45,6 +45,7 @@ historical_data["date"] = historical_data["Timestamp IST"].dt.date
 merged_df = pd.merge(historical_data, fear_greed, on="date", how="left")
 
 ```
+#
 ## 📊 Key Analysis
 
 #### ✅ Average Profit/Loss `(PnL)` according to market sentiment
@@ -70,7 +71,7 @@ merged_df = pd.merge(historical_data, fear_greed, on="date", how="left")
 
 
 
-##
+#
 ## 📈 Visualizations
 
 We used basic `matplotlib` and some `seaborn` for cleaner styling.
