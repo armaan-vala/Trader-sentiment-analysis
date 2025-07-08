@@ -58,11 +58,11 @@ merged_df = pd.merge(historical_data, fear_greed, on="date", how="left")
     
 - To find trends in behavior, the quantity of buy and sell trades under each sentiment was examined.
 
-#### ✅ Comparing `Fees` by Trade Side and Sentiment
+#### ✅ Comparing `Fees` by Trade Side (buy vs. sell) and Sentiment
 
 - highlighted cost effectiveness and behavior by comparing the average fee paid under various trade sides (buy vs. sell) and sentiments.
 
-#### ✅ Risk by Sentiment (Standard Deviation)
+#### ✅ Risk by Sentiment (Standard Deviation) 
     
 - To understand risk under Fear and Greed, I looked at how much profits variate with different sentiments.
 
