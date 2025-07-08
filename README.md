@@ -64,9 +64,9 @@ highlighted cost effectiveness and behavior by comparing the average fee paid un
 ✅ PnL Descriptive Statistics
 An overview of the profitability distribution was provided by the summary statistics (Min, Max, Mean, 25th, 50th, and 75th percentiles) of Closed PnL that were generated using describe().
 
-## 📈 Visualizations
 
-We used basic matplotlib and some seaborn for clear understanding of data via plots.
+
+
 
 ## 📈 Visualizations
 
