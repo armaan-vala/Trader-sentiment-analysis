@@ -87,7 +87,7 @@ We used basic `matplotlib` and some `seaborn` for cleaner styling.
 ### 📊 Distribution of PnL using `describe()` and quartiles
 ![PnL Distribution](images/Winrate_per_Market_Sentiment.png)
 
-
+#
 ## 🔍 Key Findings
 #### Traders did better when the market felt Greedy.
 
