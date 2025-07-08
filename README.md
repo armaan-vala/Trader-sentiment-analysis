@@ -70,7 +70,7 @@ merged_df = pd.merge(historical_data, fear_greed, on="date", how="left")
 
 
 
-
+##
 ## 📈 Visualizations
 
 We used basic `matplotlib` and some `seaborn` for cleaner styling.
