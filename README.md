@@ -50,7 +50,7 @@ merged_df = pd.merge(historical_data, fear_greed, on="date", how="left")
 ```
 ## 📊 Key Analysis
 
-✅ Average Profit/Loss (PnL) according to market sentiment
+✅ Average Profit/Loss '(PnL)'according to market sentiment
 
 To determine how trader profitability varies with market mood, the mean Closed PnL for each sentiment (Fear/Greed) was calculated.
 
