@@ -52,23 +52,23 @@ merged_df = pd.merge(historical_data, fear_greed, on="date", how="left")
 
 #### ✅ Average Profit/Loss `(PnL)` according to market sentiment
     
-    - To determine how trader profitability varies with market mood, the `mean Closed PnL` for each sentiment (Fear/Greed) was calculated.
+- To determine how trader profitability varies with market mood, the `mean Closed PnL` for each sentiment (Fear/Greed) was calculated.
 
 #### ✅ Distribution of Trade Volume `(Buy/Sell) by Sentiment`
     
-    - To find trends in behavior, the quantity of buy and sell trades under each sentiment was examined.
+- To find trends in behavior, the quantity of buy and sell trades under each sentiment was examined.
 
 #### ✅ Comparing `Fees` by Trade Side and Sentiment
 
-    - highlighted cost effectiveness and behavior by comparing the average fee paid under various trade sides (buy vs. sell) and sentiments.
+- highlighted cost effectiveness and behavior by comparing the average fee paid under various trade sides (buy vs. sell) and sentiments.
 
 #### ✅ Risk by Sentiment (Standard Deviation)
     
-    - To understand risk under Fear and Greed, I looked at how much profits variate with different sentiments.
+- To understand risk under Fear and Greed, I looked at how much profits variate with different sentiments.
 
 #### ✅ PnL Descriptive Statistics
 
-    - An overview of the profit distribution was provided by the summary statistics (Min, Max, Mean, 25th, 50th, and 75th percentiles) of Closed PnL that were generated using `describe()`.
+- An overview of the profit distribution was provided by the summary statistics (Min, Max, Mean, 25th, 50th, and 75th percentiles) of Closed PnL that were generated using `describe()`.
 
 
 
