@@ -7,7 +7,7 @@ This data science project explores how **market sentiment** (Fear or Greed) infl
 
 ## 🎯 Project Objective
 
-To uncover the relationship between **market sentiment** and **trader performance**, including:
+To uncover the relationship between **market sentiment** and **trader performance**.
 
 
 
