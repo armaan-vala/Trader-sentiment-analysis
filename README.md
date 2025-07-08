@@ -1,6 +1,6 @@
 # 📈 Trader Sentiment Analysis – Linking Market Mood to Trader Behavior
 
-This data science project explores how **market sentiment** (Fear or Greed) influences **trader behavior** and **performance outcomes** on a real-world crypto trading platform. Using Python, we merged trader data with sentiment data and conducted deep analysis with Pandas, supported by essential Matplotlib and Seaborn visualizations.
+This data science project explores how **market sentiment** influences **trader behavior** and **performance outcomes** on a real-world crypto trading platform. Using Python, we merged trader data with sentiment data and conducted deep analysis with Pandas, supported by essential Matplotlib and Seaborn visualizations.
 
 
 
